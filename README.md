@@ -1,1 +1,3 @@
-# rl-final
+# RL_project
+
+See details in .ipynb

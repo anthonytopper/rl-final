@@ -1,0 +1,10 @@
+Episode:	0,	 Avereged reward: 24.00
+Episode:	1,	 Avereged reward: 22.50
+Episode:	2,	 Avereged reward: 22.00
+Episode:	3,	 Avereged reward: 21.50
+Episode:	4,	 Avereged reward: 22.40
+Episode:	5,	 Avereged reward: 21.33
+Episode:	6,	 Avereged reward: 20.71
+Episode:	7,	 Avereged reward: 20.38
+Episode:	8,	 Avereged reward: 19.44
+Episode:	9,	 Avereged reward: 19.70
