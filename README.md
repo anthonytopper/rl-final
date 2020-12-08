@@ -1,5 +1,7 @@
 # RL_project
 
+FlappyBird_DQN_prioritizedReplay_1 contains code(.py), trained_model(.pth), demonstration video(.avi) and training reward log(.txt).
+
 ## Training
 
 ```
