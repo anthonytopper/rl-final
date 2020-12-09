@@ -1,0 +1,156 @@
+Raw Params:
+
+Exception ignored in: <bound method Monitor.__del__ of <Monitor<TimeLimit<SuperMarioBrosEnv<SuperMarioBros-1-1-v0>>>>>
+Traceback (most recent call last):
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 226, in __del__
+    self.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 131, in close
+    super(Monitor, self).close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/nes_py/nes_env.py", line 338, in close
+    raise ValueError('env has already been closed.')
+ValueError: env has already been closed.
+Exception ignored in: <bound method Monitor.__del__ of <Monitor<TimeLimit<SuperMarioBrosEnv<SuperMarioBros-1-1-v0>>>>>
+Traceback (most recent call last):
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 226, in __del__
+    self.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 131, in close
+    super(Monitor, self).close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/nes_py/nes_env.py", line 338, in close
+    raise ValueError('env has already been closed.')
+ValueError: env has already been closed.
+Exception ignored in: <bound method Monitor.__del__ of <Monitor<TimeLimit<SuperMarioBrosEnv<SuperMarioBros-1-1-v0>>>>>
+Traceback (most recent call last):
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 226, in __del__
+    self.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 131, in close
+    super(Monitor, self).close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/nes_py/nes_env.py", line 338, in close
+    raise ValueError('env has already been closed.')
+ValueError: env has already been closed.
+Exception ignored in: <bound method Monitor.__del__ of <Monitor<TimeLimit<SuperMarioBrosEnv<SuperMarioBros-1-1-v0>>>>>
+Traceback (most recent call last):
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 226, in __del__
+    self.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 131, in close
+    super(Monitor, self).close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/nes_py/nes_env.py", line 338, in close
+    raise ValueError('env has already been closed.')
+ValueError: env has already been closed.
+Exception ignored in: <bound method Monitor.__del__ of <Monitor<TimeLimit<SuperMarioBrosEnv<SuperMarioBros-1-1-v0>>>>>
+Traceback (most recent call last):
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 226, in __del__
+    self.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 131, in close
+    super(Monitor, self).close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/nes_py/nes_env.py", line 338, in close
+    raise ValueError('env has already been closed.')
+ValueError: env has already been closed.
+Exception ignored in: <bound method Monitor.__del__ of <Monitor<TimeLimit<SuperMarioBrosEnv<SuperMarioBros-1-1-v0>>>>>
+Traceback (most recent call last):
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 226, in __del__
+    self.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 131, in close
+    super(Monitor, self).close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/nes_py/nes_env.py", line 338, in close
+    raise ValueError('env has already been closed.')
+ValueError: env has already been closed.
+Exception ignored in: <bound method Monitor.__del__ of <Monitor<TimeLimit<SuperMarioBrosEnv<SuperMarioBros-1-1-v0>>>>>
+Traceback (most recent call last):
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 226, in __del__
+    self.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/wrappers/monitor.py", line 131, in close
+    super(Monitor, self).close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/gym/core.py", line 243, in close
+    return self.env.close()
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/nes_py/nes_env.py", line 338, in close
+    raise ValueError('env has already been closed.')
+ValueError: env has already been closed.
+New best average reward of 17.0! Saving model
+Testing model...
+20.199999999999996
+Episode 0 - Reward: 17.0, Best: 17.0, Average: 17.0 Epsilon: 0.9995
+New best average reward of 51.675! Saving model
+Testing model...
+20.199999999999996
+Episode 1 - Reward: 86.35, Best: 86.35, Average: 51.675 Epsilon: 0.9908
+Episode 2 - Reward: 17.75, Best: 86.35, Average: 40.367 Epsilon: 0.9904
+Episode 3 - Reward: 69.15, Best: 86.35, Average: 47.563 Epsilon: 0.9868
+New best average reward of 53.04! Saving model
+Testing model...
+20.199999999999996
+Episode 4 - Reward: 74.95, Best: 86.35, Average: 53.04 Epsilon: 0.9848
+Episode 5 - Reward: 16.9, Best: 86.35, Average: 47.017 Epsilon: 0.9842
+Episode 6 - Reward: 53.05, Best: 86.35, Average: 47.879 Epsilon: 0.9757
+Episode 7 - Reward: 57.3, Best: 86.35, Average: 49.056 Epsilon: 0.9746
+New best average reward of 53.289! Saving model
+Testing model...
+20.199999999999996
+Episode 8 - Reward: 87.15, Best: 87.15, Average: 53.289 Epsilon: 0.967
+Episode 9 - Reward: 18.6, Best: 87.15, Average: 49.82 Epsilon: 0.9667
+New best average reward of 55.895! Saving model
+Testing model...
+20.199999999999996
+Episode 10 - Reward: 116.65, Best: 116.65, Average: 55.895 Epsilon: 0.9597
+Episode 11 - Reward: 55.35, Best: 116.65, Average: 55.85 Epsilon: 0.9587
+New best average reward of 56.1! Saving model
+Testing model...
+20.199999999999996
+Episode 12 - Reward: 59.1, Best: 116.65, Average: 56.1 Epsilon: 0.9571
+Episode 13 - Reward: 52.9, Best: 116.65, Average: 55.871 Epsilon: 0.9559
+Episode 14 - Reward: 41.2, Best: 116.65, Average: 54.893 Epsilon: 0.9371
+Episode 15 - Reward: 56.15, Best: 116.65, Average: 54.972 Epsilon: 0.9362
+Episode 16 - Reward: 50.3, Best: 116.65, Average: 54.697 Epsilon: 0.9334
+New best average reward of 56.794! Saving model
+Testing model...
+20.199999999999996
+Episode 17 - Reward: 92.45, Best: 116.65, Average: 56.794 Epsilon: 0.9282
+Episode 18 - Reward: 44.05, Best: 116.65, Average: 56.124 Epsilon: 0.9153
+> /home/aditthapron/super-mario-bros-dqn-2/core/helpers.py(46)compute_td_loss()
+-> replay_buffer.update_priorities(indices, prios.data.cpu().numpy())
+(Pdb) 
+Traceback (most recent call last):
+  File "train.py", line 106, in <module>
+    main()
+  File "train.py", line 101, in main
+    train(env, model, target_model, optimizer, replay_buffer, args, device)
+  File "train.py", line 90, in train
+    device, info, episode)
+  File "train.py", line 78, in run_episode
+    device, info, beta)
+  File "train.py", line 26, in update_graph
+    args.batch_size, beta)
+  File "/home/aditthapron/super-mario-bros-dqn-2/core/helpers.py", line 46, in compute_td_loss
+    replay_buffer.update_priorities(indices, prios.data.cpu().numpy())
+  File "/home/aditthapron/super-mario-bros-dqn-2/core/helpers.py", line 46, in compute_td_loss
+    replay_buffer.update_priorities(indices, prios.data.cpu().numpy())
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/bdb.py", line 51, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/bdb.py", line 70, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit

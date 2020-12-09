@@ -1,0 +1,16 @@
+Raw Params:
+
+Traceback (most recent call last):
+  File "train.py", line 106, in <module>
+    main()
+  File "train.py", line 98, in main
+    args.transfer)
+  File "/home/aditthapron/super-mario-bros-dqn-2/core/helpers.py", line 84, in initialize_models
+    model, target_model = load_model(environment, model, target_model)
+  File "/home/aditthapron/super-mario-bros-dqn-2/core/helpers.py", line 73, in load_model
+    model.load_state_dict(torch.load(model_name))
+  File "/home/aditthapron/work/[/home/aditthapron/work/anaconda3/envs/sinc_2/lib/python3.6/site-packages/torch/nn/modules/module.py", line 839, in load_state_dict
+    self.__class__.__name__, "\n\t".join(error_msgs)))
+RuntimeError: Error(s) in loading state_dict for CNNDQN:
+	size mismatch for fc.2.weight: copying a param with shape torch.Size([12, 512]) from checkpoint, the shape in current model is torch.Size([7, 512]).
+	size mismatch for fc.2.bias: copying a param with shape torch.Size([12]) from checkpoint, the shape in current model is torch.Size([7]).
